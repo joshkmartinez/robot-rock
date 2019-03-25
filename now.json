@@ -1,0 +1,16 @@
+{
+  "name": "Robot Rock",
+  "alias": [
+    "robot",
+    "robotRock",
+    "daftPunk",
+    "humanAfterAll",
+    "daftPunkRobotRock",
+    "rocc"
+  ],
+  "version": 2,
+  "builds": [{ "src": "index.js", "use": "@now/node" }],
+  "github": {
+    "silent": true
+  }
+}
