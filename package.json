@@ -5,8 +5,6 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "build": "next build",
-    "start": "next start",
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
     "deploy": "now",
